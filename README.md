@@ -1,13 +1,11 @@
 # SparkX smôl FPC 16-way 36mm
 
-[![SparkX smôl FPC 16-way 36mm (CBL-16202)]()](https://www.sparkfun.com/products/nnnnn)
+[![SparkX smôl FPC 16-way 36mm (CAB-18731)](https://cdn.sparkfun.com/assets/parts/1/8/0/6/3/18731-FPC_Ribbon_Cable_16-pin_0.5mm_36mm-length-01.jpg)](https://www.sparkfun.com/products/18731)
 
-[*SparkX smôl FPC 16-way 36mm (CBL-16202)*](https://www.sparkfun.com/products/nnnnn)
+[*SparkX smôl FPC 16-way 36mm (CAB-18731)*](https://www.sparkfun.com/products/18731)
 
 FPC interconnect for smôl:
 - 16-way; 0.5mm pitch; 36mm long
-
-![Top.png](./img/Top.png)
 
 ![Dimensions.png](./img/Dimensions.png)
 
@@ -18,7 +16,7 @@ FPC interconnect for smôl:
 
 ## Product Versions
 
-- [CBL-16202](https://www.sparkfun.com/products/nnnnn) - Original SparkX Release.
+- [CAB-18731](https://www.sparkfun.com/products/18731) - Original SparkX Release.
 
 ## License Information
 
